@@ -1,7 +1,12 @@
 body {
     height: 100vh;
-    background-color: #fafafa;
+    background-color: black;
     overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Orbitron';
+    color: white;
 }
 
 .main {
